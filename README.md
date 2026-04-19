@@ -136,6 +136,8 @@ Les contributions sont les bienvenues !
 
 Projet open-source. Libre d’utilisation et de modification.
 
+Jeu est toujours en cours d'amélioration sur la partie Style Sheets
+
 ---
 
 ## 💡 Auteur
